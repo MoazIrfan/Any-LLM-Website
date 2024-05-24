@@ -38,9 +38,9 @@ canvas {
     @apply flex items-center justify-center
   }
 
-  /* .nav-height {
+  .nav-height {
     @apply h-[calc(100vh-60px)]
-  } */
+  }
 
   .btn {
     @apply px-5 py-2 rounded-3xl bg-blue my-5 hover:bg-transparent border border-transparent hover:border hover:text-blue hover:border-blue
@@ -95,7 +95,7 @@ canvas {
   }
 
   .hero-title {
-    @apply text-center font-semibold md:text-3xl text-gray-100 opacity-0 absolute md:top-16 top-4 
+    @apply text-center font-semibold md:text-3xl text-gray-100 opacity-0  
   }
 
   .hiw-title {

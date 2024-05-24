@@ -53,7 +53,7 @@ const HowItWorks = () => {
 
         <div className="hiw-text-container">
           <p className="hiw-text g_fadeIn">
-            ChatGPT Template to utilize any OpenAI Language Model, i.e. {' '}
+            <span className="text-white">React(MERN) </span>ChatGPT Template to utilize any OpenAI Language Model, i.e. {' '}
             <span className="text-white">
               GPT-3, GPT-4, Davinci, DALL-E {' '}
             </span>and more.

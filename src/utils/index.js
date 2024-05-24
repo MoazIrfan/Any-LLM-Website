@@ -1,8 +1,8 @@
-import hmv from "/assets/videos/any-llm.mp4";
-import highlightFirstmv from "/assets/videos/highlight-o.mov";
-import highlightSectmv from "/assets/videos/highlight-s.mov";
-import highlightThirdmv from "/assets/videos/highlight-t.mov";
-import highlightFourthmv from "/assets/videos/highlight-f.mov";
+import hmv from "/assets/videos/any-llm-animation.mp4";
+import highlightFirstmv from "/assets/videos/highlight-first.mp4";
+import highlightSectmv from "/assets/videos/highlight-second.mp4";
+import highlightThirdmv from "/assets/videos/highlight-third.mp4";
+import highlightFourthmv from "/assets/videos/highlight-fourth.mp4";
 import framemv from "/assets/videos/any.mp4";
 
 import right from "/assets/images/right.png";
