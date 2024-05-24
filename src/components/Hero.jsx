@@ -25,7 +25,7 @@ const Hero = () => {
         className="flex flex-col items-center opacity-0 translate-y-20"
       >
         <a href="https://github.com/MoazIrfan/Any-LLM" target="_blank" className="bg-zinc hover:bg-transparent border border-zinc hover:border hover:border-zinc text-white py-3 px-6 rounded-full shadow">Github</a>
-        <p className="font-normal md:text-xl text-sm mt-4">Download Free</p>
+        <p className="font-normal md:text-xl text-sm mt-4">Get it Free</p>
       </div>
     </section>
   )
